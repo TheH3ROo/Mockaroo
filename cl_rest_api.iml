@@ -28,6 +28,6 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="mockito-core-4.8.1" level="project" />
+    <orderEntry type="library" name="mockito-scala-scalatest_2.13-1.17.22" level="project" />
   </component>
 </module>
