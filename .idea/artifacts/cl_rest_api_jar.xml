@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cl_rest_api:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cl_rest_api_jar</output-path>
+    <root id="archive" name="cl_rest_api.jar">
+      <element id="module-output" name="cl_rest_api" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files/opencsv-5.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/gson-2.10.1.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/database.properties" />
+    </root>
+  </artifact>
+</component>
